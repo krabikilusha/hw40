@@ -21,7 +21,7 @@ const Avatar = () => {
   return (
     <div className='avatar'>
       <div className='avatar__content'>
-        <span>Илья П.</span>
+        <span>Алексей А.</span>
         <ExitButton />
       </div>
       <div className='avatar__img'>
